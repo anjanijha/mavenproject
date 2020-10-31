@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="Anjani Maven Automation TestNg Suite">
+	<test name="Anjani Test Maven">
+		
+	    <packages>
+	    
+	       <package name ="com.qa.tests.*" />
+	       
+	       
+	    
+	    </packages>
+</test>
+
+
+</suite>
